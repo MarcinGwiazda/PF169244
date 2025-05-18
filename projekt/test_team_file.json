@@ -1,0 +1,93 @@
+{
+  "team_name": "Code FC",
+  "players": [
+    {
+      "name": "Player 0",
+      "position": "DEFENDER",
+      "age": 28,
+      "rating": 70,
+      "stamina": 100,
+      "injured": false
+    },
+    {
+      "name": "Player 1",
+      "position": "DEFENDER",
+      "age": 28,
+      "rating": 71,
+      "stamina": 100,
+      "injured": false
+    },
+    {
+      "name": "Player 2",
+      "position": "DEFENDER",
+      "age": 28,
+      "rating": 72,
+      "stamina": 100,
+      "injured": false
+    },
+    {
+      "name": "Player 3",
+      "position": "DEFENDER",
+      "age": 28,
+      "rating": 73,
+      "stamina": 100,
+      "injured": false
+    },
+    {
+      "name": "Player 4",
+      "position": "DEFENDER",
+      "age": 28,
+      "rating": 74,
+      "stamina": 100,
+      "injured": false
+    },
+    {
+      "name": "Player 5",
+      "position": "DEFENDER",
+      "age": 28,
+      "rating": 75,
+      "stamina": 100,
+      "injured": false
+    },
+    {
+      "name": "Player 6",
+      "position": "DEFENDER",
+      "age": 28,
+      "rating": 76,
+      "stamina": 100,
+      "injured": false
+    },
+    {
+      "name": "Player 7",
+      "position": "DEFENDER",
+      "age": 28,
+      "rating": 77,
+      "stamina": 100,
+      "injured": false
+    },
+    {
+      "name": "Player 8",
+      "position": "DEFENDER",
+      "age": 28,
+      "rating": 78,
+      "stamina": 100,
+      "injured": false
+    },
+    {
+      "name": "Player 9",
+      "position": "DEFENDER",
+      "age": 28,
+      "rating": 79,
+      "stamina": 100,
+      "injured": false
+    },
+    {
+      "name": "Player 10",
+      "position": "DEFENDER",
+      "age": 28,
+      "rating": 80,
+      "stamina": 100,
+      "injured": false
+    }
+  ]
+}
